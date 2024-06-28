@@ -1,0 +1,12 @@
+0 Homem C/M
+1 Mulher C/M
+2 Menino C/M
+3 Menina C/M
+4 Idosa C/M
+5 Idoso C/M
+6 Menino S/M
+7 Menina S/M
+8 Mulher S/M
+9 Homem S/M
+10 Idosa S/M
+11 Idoso S/M
